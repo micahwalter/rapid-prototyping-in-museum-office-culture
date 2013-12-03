@@ -13,3 +13,8 @@ the stuff I planned to say
 ---
 
 [the talk](talk.md)
+
+the stuff I actually said
+---
+
+[the video](http://youtu.be/677eGxccxLY)
